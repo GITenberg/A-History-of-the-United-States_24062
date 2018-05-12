@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '26214'
     url: http://www.gutenberg.org/2009/agents/26214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24062#A-History-of-the-United-States
 gutenberg_bookshelf: United States
 gutenberg_issued: '2007-12-28'
 gutenberg_type: Text
